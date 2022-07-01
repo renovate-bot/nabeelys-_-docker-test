@@ -1,4 +1,4 @@
 
 FROM ubuntu:18.04
 
-RUN echo hello
+RUN echo 'hello renovate'
